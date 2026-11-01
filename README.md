@@ -1,4 +1,4 @@
-# APP 2026-2027 -- TD3
+# AAP 2026-2027 -- TD3
 
 ## Support de cours
 
