@@ -8,7 +8,7 @@
 
 - Comprendre les structures natives et appréhender leurs usages et leurs performances pour choisir la bonne structure : `list`, `tuples`, `dict/set`. 
 - Apprendre à faire des structures auto-référentes, des structures de données complexes
-sous forme d'objets
+sous forme de classes
 - Utiliser des structures linéaires pour résoudre le problème du compte est bon
 
 
