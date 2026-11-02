@@ -75,4 +75,4 @@ Nous utilisons le fichier `evaluation_notation_polonaise_inverse.py` pour implé
 
 ## Exercice 7 : Résolution du problème du compte est bon
 
-C'est l'ojectif du TP4 !
+C'est l'objectif du TP4 !
